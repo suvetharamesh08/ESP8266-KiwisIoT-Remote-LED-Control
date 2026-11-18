@@ -89,6 +89,6 @@ Each channel controls its corresponding LED independently.
 
 [ESP8266_Three_LED_Control.ino](ESP8266_Three_LED_Control.ino)
 
-## ** 12. 📸 Project Output**
+## 12. 📸 Project Output
 
 ![ESP8266 Three LED Control](ESP8266%20Three%20LED%20CONTROL.jpeg)
