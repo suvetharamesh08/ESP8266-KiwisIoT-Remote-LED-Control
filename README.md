@@ -95,4 +95,6 @@ Each channel controls its corresponding LED independently.
 
 
 
-![KiwisIoT Output](KIWISIOT%20OUTPUT.jpeg)
+
+
+![KiwisIoT Output for Three LED](kiwisiot%20output%20for%20three%20led.jpeg)
